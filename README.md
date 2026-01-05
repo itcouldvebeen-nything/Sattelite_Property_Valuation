@@ -65,13 +65,13 @@ The system extracts visual features using EfficientNet-B0 (pre-trained on ImageN
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/property_valuation.git
+git clone http://github.com/itcouldvebeen-nything/Sattelite_Property_Valuation
 cd property_valuation
 ```
 
 ### Step 2: Download Data
 
-**Important**: Download the data zip folder from the [Google Drive link](https://drive.google.com/your-link-here) and extract it to the project root. The data should include:
+**Important**: Download the data zip folder from the [Google Drive link](https://drive.google.com/file/d/1eQs-pOm491pkOe-c0GEt9YsqUYGsAx9r/view?usp=sharing) and extract it to the project root. The data should include:
 
 - `data/raw/train(1).csv` - Training dataset with property features
 - `data/raw/test2.csv` - Test dataset
@@ -326,5 +326,5 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-**Note**: This project is part of a research initiative. For detailed methodology, results, and business impact analysis, refer to [Technical_Project_Report.pdf](Technical_Project_Report.pdf).
+**Note**: This project is part of a research initiative. For detailed methodology, results, and business impact analysis, refer to [Technical_Project_Report](23118036_report.pdf).
 
